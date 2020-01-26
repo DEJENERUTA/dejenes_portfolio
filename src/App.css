@@ -3,6 +3,7 @@ App {
   padding: 0;
   font-family: sans-serif;
   background-color: red;
+  box-sizing: border-box;
 }
 header {
   background-color: green;
@@ -12,3 +13,4 @@ header nav {
   float: right;
   
 }
+

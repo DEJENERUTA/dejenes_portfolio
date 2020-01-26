@@ -5,7 +5,7 @@ import  Home  from './Components/Home'
 import  Contact from './Components/Contact'
 import  Header from './Components/Header'
 import  About from './Components/About'
-//import Header from './Components/Header'
+
 
 class App extends Component {
   render() {

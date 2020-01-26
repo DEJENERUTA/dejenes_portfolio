@@ -9,7 +9,7 @@ class Home extends Component {
         <p className="lead text-muted">April 2019 – January 2020
           Hack Your Future -, Copenhagen
           Full Stack Web Development
-          JavaScript,Database, NodeJS, React, GIT, HTML5, CSS3, ExpressJS
+          JavaScript, Database, NodeJS, React, GIT, HTML5, CSS3, ExpressJS
           Copenhagen, Denmark
        </p>
      </div>
