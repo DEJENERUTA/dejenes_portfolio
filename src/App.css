@@ -1,0 +1,14 @@
+App {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: red;
+}
+header {
+  background-color: green;
+  padding: 5px;
+}
+header nav {
+  float: right;
+  
+}
