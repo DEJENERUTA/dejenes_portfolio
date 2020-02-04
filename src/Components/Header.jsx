@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
 import  { Link } from 'react-router-dom';
-//import image from './Components/image/background.jpg';
-
-
 
 class Header extends Component {
   render () {
@@ -13,13 +10,15 @@ class Header extends Component {
            </nav>
            <div>
              <h2>Well come To My Portfolio</h2>
-             {/* <div className="background-picture">
-             <img src="background.jpg" alt width="300" height="400" /> */}
+              <div className="background-picture">
+             <img src="Background_photo.jpeg" alt="" width="300" height="400" /> 
              </div>
-
+             </div>
         </header> 
        );
+    
   }
 } 
+
 
 export default Header;

@@ -4,7 +4,7 @@ class Home extends Component {
   render() {
     return (
       <div id="Home">
-        <h1>Eucational Background</h1>
+        <h1>Educational Background</h1>
       <div className="col-sm-6">
         <p className="lead text-muted">April 2019 – January 2020
           Hack Your Future -, Copenhagen
